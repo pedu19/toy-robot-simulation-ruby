@@ -39,7 +39,7 @@ Dependencies: bundle install
 
 Test: rspec spec/
 
-Run: ruby toy.rb
+Run: ruby toy_robot.rb
 
 
 
